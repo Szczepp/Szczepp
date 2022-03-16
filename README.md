@@ -14,4 +14,3 @@
   - LINUX
   - GIT
   - REACT
-  - C#
