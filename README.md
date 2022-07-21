@@ -8,8 +8,9 @@
   - HTML 5
   - CSS
   - MySQL
+  - Laravel
 #### And basics of: 
-  - LARAVEL
+  - Django
   - DOCKER
   - LINUX
   - GIT
