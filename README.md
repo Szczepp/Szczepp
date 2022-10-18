@@ -2,16 +2,16 @@
 
 #### I'm the IT technician, currently studying   *'Information Technology and Econometrics: Apps in the business'*  at  University of Gdańsk
 #### My tech stack:
+  - C#
+  - ASP.NET 
   - PHP 8
-  - PYTHON 3
+  - Laravel
   - JAVASRCIPT
   - HTML 5
   - CSS
-  - MySQL
-  - Laravel
+  - MySQL / SQL Server
 #### And basics of: 
   - Django
   - DOCKER
   - LINUX
   - GIT
-  - REACT
