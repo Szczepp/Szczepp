@@ -12,6 +12,6 @@
   - MySQL / SQL Server
 #### And basics of: 
   - Django
-  - DOCKER
+  - Angular
   - LINUX
   - GIT
