@@ -1,4 +1,4 @@
-#Szczepan Kowalik
+# Szczepan Kowalik
 
 #### I'm the IT technician, currently studying   *'Information Technology and Econometrics: Apps in the business'*  at  University of Gdańsk
 #### My tech stack:
