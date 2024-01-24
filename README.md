@@ -7,7 +7,7 @@
 
 I'm Szczepan Kowalik, a passionate IT specialist with a love for coding and problem-solving in general.
 
-- 🚀 Currently working at Komanord where I specialize in 2nd level IT support and solving other technical issues.
+- 🚀 Currently working at **Komanord** in **Tenneco** Bearing Factory where I specialize in 2nd level IT support and solving different technical issues.
 - 💡 Enthusiastic about music and how IT systems change our everyday life.
 - 🌱 Always eager to explore new technologies and expand my skill set.
 
